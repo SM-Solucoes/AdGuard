@@ -3,3 +3,4 @@
 @@||clickserve.dartsearch.net^
 @@||aliexpress.com^
 @@||globo.com^
+@@||ig.com.br^
