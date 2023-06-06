@@ -4,7 +4,8 @@
 
 
 ![Configurações de DNS](Images/DNS-config.png)
-<code>https://security.cloudflare-dns.com/dns-query</code>
+<code>https://security.cloudflare-dns.com/dns-query
+[/dominio.local/]10.x.y.z</code>
 
 
 
