@@ -4,3 +4,4 @@
 @@||aliexpress.com^
 @@||globo.com^
 @@||ig.com.br^
+@@||hCaptcha.com^
