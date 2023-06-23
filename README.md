@@ -43,12 +43,6 @@ https://security.cloudflare-dns.com/dns-query
 2606:4700:4700::1002
 ```
 
-### Servidores DNS reversos privados
-```
-```
-- [x] Usar resolvedores DNS reversos privados
-- [x] Ativar resolução reversa de endereços IP de clientes
-
 ## Lista de bloqueio de DNS
 | Ativado | Nome | URL da lista |
 | ------- | ---- | ------------ |
