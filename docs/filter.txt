@@ -1,3 +1,4 @@
+||baixaki.com.br^
 @@||api.ipdata.co^
 @@||sieg.com^
 @@||clickserve.dartsearch.net^
