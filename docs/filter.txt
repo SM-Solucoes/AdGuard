@@ -7,3 +7,4 @@
 @@||globo.com^
 @@||ig.com.br^
 @@||hCaptcha.com^
+@@||wasabisys.com^
