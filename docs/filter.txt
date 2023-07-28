@@ -8,3 +8,4 @@
 @@||ig.com.br^
 @@||hCaptcha.com^
 @@||wasabisys.com^
+@@||estaleiro.serpro.gov.br^
