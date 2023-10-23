@@ -13,3 +13,4 @@
 @@||nettime.pool.ntp.org^
 @@||letras.mus.br^
 @@||einstein.br^
+@@||googleadservices.com^
