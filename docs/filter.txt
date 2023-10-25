@@ -1,5 +1,3 @@
-||baixaki.com.br^
-||avast.com^
 @@||api.ipdata.co^
 @@||sieg.com^
 @@||clickserve.dartsearch.net^
