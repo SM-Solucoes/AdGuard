@@ -53,5 +53,4 @@ https://security.cloudflare-dns.com/dns-query
 ## Lista de Permissão de DNS
 | Ativado | Nome | URL da lista |
 | ------- | ---- | ------------ |
-| <ul><li>- [x] </li></ul> | AdGuard DNS filter | https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt |
 | <ul><li>- [x] </li></ul> | SM | https://sm-solucoes.github.io/AdGuard/filter.txt |
