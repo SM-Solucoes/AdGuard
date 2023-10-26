@@ -1,0 +1,15 @@
+@@||api.ipdata.co^
+@@||sieg.com^
+@@||clickserve.dartsearch.net^
+@@||aliexpress.com^
+@@||globo.com^
+@@||ig.com.br^
+@@||hCaptcha.com^
+@@||wasabisys.com^
+@@||estaleiro.serpro.gov.br^
+@@||hospitalunimedcpv.com.br^
+@@||nettime.pool.ntp.org^
+@@||letras.mus.br^
+@@||einstein.br^
+@@||googleadservices.com^
+@@||itau.com.br^
