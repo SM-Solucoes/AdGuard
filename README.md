@@ -43,14 +43,14 @@ https://security.cloudflare-dns.com/dns-query
 2606:4700:4700::1002
 ```
 
-## Lista de bloqueio de DNS
+## Listas de bloqueio de DNS
 | Ativado | Nome | URL da lista |
 | ------- | ---- | ------------ |
 | <ul><li>- [x] </li></ul> | AdGuard DNS filter | https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt |
-| <ul><li>- [x] </li></ul> | SM-Bloqueio | https://sm-solucoes.github.io/AdGuard/bloqueio.txt |
+| <ul><li>- [x] </li></ul> | SM (blacklist) | https://sm-solucoes.github.io/AdGuard/blacklist.txt |
 
 
-## Lista de Permissão de DNS
+## Listas de permissões de DNS
 | Ativado | Nome | URL da lista |
 | ------- | ---- | ------------ |
-| <ul><li>- [x] </li></ul> | SM | https://sm-solucoes.github.io/AdGuard/filter.txt |
+| <ul><li>- [x] </li></ul> | SM (whitelist) | https://sm-solucoes.github.io/AdGuard/whitelist.txt |
