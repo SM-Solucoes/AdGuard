@@ -13,3 +13,4 @@
 @@||einstein.br^
 @@||googleadservices.com^
 @@||itau.com.br^
+@@||adservice.google.com^
