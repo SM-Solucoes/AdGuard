@@ -13,4 +13,6 @@
 @@||einstein.br^
 @@||googleadservices.com^
 @@||itau.com.br^
-
+@@||prosoft.com.br^
+@@||v3.org^
+@@||w3.org^
