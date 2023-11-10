@@ -15,3 +15,4 @@
 @@||itau.com.br^
 @@||adservice.google.com^
 @@||listenx.com.br^
+@@||videoconferencia.certisign.com.br^
