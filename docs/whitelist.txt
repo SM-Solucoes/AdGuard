@@ -15,6 +15,6 @@
 @@||itau.com.br^
 @@||adservice.google.com^
 @@||listenx.com.br^
-@@||autenticador.certisign.com.br^
+@@||certisign.com.br^
 @@||my3cx.com.br^
 @@||icloud.com^
