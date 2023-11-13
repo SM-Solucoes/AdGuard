@@ -17,3 +17,5 @@
 @@||listenx.com.br^
 @@||autenticador.certisign.com.br^
 @@||my3cx.com.br^
+@@||my3cx.com.br^
+@@||icloud.com^
