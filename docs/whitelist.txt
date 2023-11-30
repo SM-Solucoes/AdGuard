@@ -18,3 +18,4 @@
 @@||certisign.com.br^
 @@||my3cx.com.br^
 @@||icloud.com^
+@@||locaweb.com.br^
