@@ -28,7 +28,8 @@
 
 ### Servidor DNS primário
 ```
-https://security.cloudflare-dns.com/dns-query
+https://1.1.1.2/dns-query
+https://1.0.0.2/dns-query
 [/dominio.local/]10.x.y.z
 ```
 - [x] Balanceamento de carga
