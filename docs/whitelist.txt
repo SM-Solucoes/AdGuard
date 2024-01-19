@@ -22,3 +22,5 @@
 @@||sicoob.com.br^
 @@||massgrave.dev^
 @@||gov.br^
+@@||conecta.omotor.com.br^
+@@||eu.webhook.logs.insight.rapid7.com^
