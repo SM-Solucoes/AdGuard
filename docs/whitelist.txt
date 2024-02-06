@@ -24,3 +24,4 @@
 @@||gov.br^
 @@||conecta.omotor.com.br^
 @@||portaldarede.certisign.com.br^
+@@||alelo.com.br^
