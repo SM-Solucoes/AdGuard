@@ -28,7 +28,8 @@
 
 ### Servidor DNS primário
 ```
-https://dns.adguard-dns.com/dns-query
+https://1.1.1.1/dns-query
+https://1.0.0.1/dns-query
 [/dominio.local/]10.x.y.z
 ```
 - [x] Balanceamento de carga
@@ -37,10 +38,10 @@ https://dns.adguard-dns.com/dns-query
 
 ### Servidores DNS de inicialização
 ```
-1.1.1.2
-1.0.0.2
-2606:4700:4700::1112
-2606:4700:4700::1002
+1.1.1.1
+1.0.0.1
+2606:4700:4700::1111
+2606:4700:4700::1001
 ```
 
 ## Listas de bloqueio de DNS
