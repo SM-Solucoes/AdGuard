@@ -26,8 +26,3 @@
 @@||portaldarede.certisign.com.br^
 @@||alelo.com.br^
 @@||new-credsign.credpago.com^
-@@||cdn.lr-ingest.io^
-@@||cdn.heapanalytics.com^
-@@||www.google-analytics.com^
-@@||api.simpliroute.com^
-@@||m.stripe.com^
