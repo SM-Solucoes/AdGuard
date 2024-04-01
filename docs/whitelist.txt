@@ -29,3 +29,4 @@
 @@||survey.solucx.com.br^
 @@||marketplace.via.com.br^
 @@||plataformamarketplaceprd.b2clogin.com^
+@@||pas.viavarejo.com.br^
