@@ -27,3 +27,4 @@
 @@||alelo.com.br^
 @@||new-credsign.credpago.com^
 @@||survey.solucx.com.br^
+@@||marketplace.via.com.br^
