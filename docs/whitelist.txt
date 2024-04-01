@@ -28,3 +28,4 @@
 @@||new-credsign.credpago.com^
 @@||survey.solucx.com.br^
 @@||marketplace.via.com.br^
+@@||plataformamarketplaceprd.b2clogin.com^
