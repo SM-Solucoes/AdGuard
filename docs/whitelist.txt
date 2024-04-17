@@ -31,3 +31,4 @@
 @@||plataformamarketplaceprd.b2clogin.com^
 @@||pas.viavarejo.com.br^
 @@||via.com.br^
+@@||ad.doubleclick.net^
