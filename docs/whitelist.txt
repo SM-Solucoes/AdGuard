@@ -34,3 +34,4 @@
 @@||ad.doubleclick.net^
 @@||static.hotjar.com^
 @@||stats.g.doubleclick.net^
+@@||clarity.ms^ 
