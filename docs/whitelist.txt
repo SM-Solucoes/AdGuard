@@ -35,3 +35,4 @@
 @@||static.hotjar.com^
 @@||stats.g.doubleclick.net^
 @@||clarity.ms^ 
+@@||sentry.io^
