@@ -32,3 +32,5 @@
 @@||pas.viavarejo.com.br^
 @@||via.com.br^
 @@||ad.doubleclick.net^
+@@||static.hotjar.com^
+@@||stats.g.doubleclick.net^
