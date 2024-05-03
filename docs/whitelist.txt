@@ -36,3 +36,4 @@
 @@||stats.g.doubleclick.net^
 @@||clarity.ms^ 
 @@||sentry.io^
+@@||ts.bvsnet.com.br^
