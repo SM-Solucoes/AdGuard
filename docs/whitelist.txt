@@ -38,3 +38,4 @@
 @@||sentry.io^
 @@||ts.bvsnet.com.br^
 @@||edrone.me^
+@@||analytics.google.com^
